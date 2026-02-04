@@ -1,2 +1,1 @@
-#Client
-By Jack Maple
+Client By Jack Maple
